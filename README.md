@@ -9,5 +9,6 @@ O print mostra recursos como:
 - Serviços de Pesquisa
 - Idioma e Serviços de Fala
 
+![Portal Azure](Microsoft%20Azure.png)
 
 Este conteúdo faz parte de um **desafio de projeto da DIO**, demonstrando experiência prática com o portal do Azure.
